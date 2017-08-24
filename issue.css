@@ -1,0 +1,13 @@
+.t2{
+	font-size: 20px;
+	width: 20%;
+	}
+	input[type=text]{
+		width: 100%;
+	     padding: 5px;
+	}
+	
+	.t3{
+		width: 100%;
+		background-color: blue;
+	}
